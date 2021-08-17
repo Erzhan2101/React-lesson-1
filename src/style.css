@@ -44,4 +44,30 @@ body{
 
 /*----- HERO -----*/
 
+.hero{
+    background: #EFEFEF;
+}
+
+.box-title{
+    padding: 39px;
+}
+
+.title{
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 17px;
+}
+
+.subtitle{
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+/*------- FOOTER -------*/
 
